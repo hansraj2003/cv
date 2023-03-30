@@ -1,0 +1,61 @@
+body {
+    background-color: #EAF6F6;
+}
+
+hr {
+    background-color: #EAF6F6;
+    border-style: dotted none none;
+    width: 5%;
+    border-color: grey;
+    border-width: 5px;
+}
+
+h1 {
+    color: #66BFBF;
+}
+
+
+h3 {
+    color: #66BFBF;
+}
+
+.Han {
+    text-decoration: underline;
+}
+
+/*.F {
+    font-family: 'Merriweather', serif;;
+}
+*/
+
+
+/**********************************CLASS SELECTORS**********************************/
+/*.education {
+    color: red;
+}
+.instagram {
+    background-color: black;
+}
+.facebook {
+    background-color: blue;
+}
+*/
+
+/* For ID Selectors we use # */
+
+/*  #heading {
+    font-size: 1000px;
+}
+#heading1 {
+    color: blue;
+}
+*/
+
+/* img:hover {
+    background-color: orange;
+}
+
+.DP {
+    background-color: gold;
+}
+*/
